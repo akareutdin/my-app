@@ -5,6 +5,10 @@ body {
 p {
     color: red;
 }
-h {
+
+h1 {
     color: yellow;
+}
+h2{
+    color: pink;
 }
